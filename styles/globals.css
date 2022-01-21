@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
+
+body {
+    background-color: #1f1f1f;
+}
+
+.text-linear-gradient {
+    background: linear-gradient(to bottom, #00FFB2, #343AD4);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
