@@ -4,7 +4,17 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'ptSans': ['PT Sans Narrow', 'sans-serif'],
+        'inter': ['Inter', 'sans-serif'],
+      },
+      colors: {
+        'hnOrange': 'rgb(255, 102, 0)',
+        'redCrayola': '#EF2D56',
+        'mantis': '#8CD867'
+      }
+    },
   },
   plugins: [],
 }

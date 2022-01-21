@@ -3,9 +3,10 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
 
 body {
-    background-color: #1f1f1f;
+    background-color: #363537;
 }
 
 .text-linear-gradient {
@@ -14,3 +15,4 @@ body {
     -webkit-background-clip: text;
     font-family: 'PT Sans Narrow', sans-serif;
 }
+
