@@ -19,7 +19,7 @@ const Story = ({story}) => {
                     </div>
                 </div>
 
-                <div className='ml-5'>
+                <div className={story.score > 99 ? 'ml-5' : 'ml-8'}>
                     <p className='text-black font-ptSans text-xl font-medium'>{story?.title.length > 50 ? story.title.slice(0, 50) + '...' : story.title}</p>
                     <div className='mt-2'>
                         <p className='text-lg'>by <span className='text-redCrayola'>{story.by}</span> on <span className='text-redCrayola'>{moment.unix(story.time).format('MMMM DD, YYYY')}</span></p>
