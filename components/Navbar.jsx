@@ -53,7 +53,6 @@ const Navbar = () => {
 
       <div className="text-white mt-5 ml-5 pr-2 lg:pr-3 sm:ml-[280px] md:ml-5 lg:ml-[60px] 2xl:ml-[300px]">
         <a href="https://github.com/david-p-george/Refashioned-HackerNews---One-Day-Project">
-          // Link to my Github repo
           <AiFillGithub className="w-10 h-10 text-black hover:text-mantis transition duration-500 ease-in" />
         </a>
       </div>
