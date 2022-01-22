@@ -1,102 +1,102 @@
 [
-    {
-        "by": "todsacerdoti",
-        "descendants": 284,
-        "id": 29981188,
-        "score": 2867,
-        "time": 1642521964,
-        "title": "GPS",
-        "type": "story",
-        "url": "https://ciechanow.ski/gps/"
-    },
-    {
-        "by": "totablebanjo",
-        "descendants": 1342,
-        "id": 29978723,
-        "score": 2045,
-        "time": 1642512622,
-        "title": "Microsoft to Acquire Activision Blizzard",
-        "type": "story",
-        "url": "https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/"
-    },
-    {
-        "by": "nrvn",
-        "descendants": 339,
-        "id": 29985871,
-        "score": 1378,
-        "time": 1642540237,
-        "title": "Do svidaniya, Igor, and thank you for Nginx",
-        "type": "story",
-        "url": "https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/"
-    },
-    {
-        "by": "andrewdutton",
-        "descendants": 690,
-        "id": 29993961,
-        "score": 673,
-        "time": 1642602533,
-        "title": "1Password Has Raised $620M",
-        "type": "story",
-        "url": "https://blog.1password.com/future-of-1password/"
-    },
-    {
-        "by": "kbuck",
-        "descendants": 284,
-        "id": 30013919,
-        "score": 621,
-        "time": 1642708866,
-        "title": "Roblox October Outage Postmortem",
-        "type": "story",
-        "url": "https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/"
-    },
-    {
-        "by": "TriNetra",
-        "descendants": 480,
-        "id": 29994776,
-        "score": 621,
-        "time": 1642605862,
-        "title": "I automated my job over a year ago and haven't told anyone",
-        "type": "story",
-        "url": "https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/"
-    },
-    {
-        "by": "VHRanger",
-        "descendants": 434,
-        "id": 29966533,
-        "score": 618,
-        "time": 1642427580,
-        "title": "An anatomy of Bitcoin price manipulation",
-        "type": "story",
-        "url": "https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/"
-    },
-    {
-        "by": "mikeyhew",
-        "descendants": 149,
-        "id": 30018197,
-        "score": 618,
-        "time": 1642729960,
-        "title": "Free Postgres databases for small projects",
-        "type": "story",
-        "url": "https://fly.io/blog/free-postgres/"
-    },
-    {
-        "by": "vishvananda",
-        "descendants": 456,
-        "id": 29983959,
-        "score": 591,
-        "time": 1642532170,
-        "title": "Locked out of 'God Mode', runners are hacking their treadmills",
-        "type": "story",
-        "url": "https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/"
-    },
-    {
-        "by": "codyogden",
-        "descendants": 980,
-        "id": 29996432,
-        "score": 585,
-        "time": 1642612082,
-        "title": "Google requiring all ‘G Suite legacy free edition’ users to start paying",
-        "type": "story",
-        "url": "https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/"
-    }
+  {
+    "by": "todsacerdoti",
+    "descendants": 284,
+    "id": 29981188,
+    "score": 2867,
+    "time": 1642521964,
+    "title": "GPS",
+    "type": "story",
+    "url": "https://ciechanow.ski/gps/"
+  },
+  {
+    "by": "totablebanjo",
+    "descendants": 1342,
+    "id": 29978723,
+    "score": 2045,
+    "time": 1642512622,
+    "title": "Microsoft to Acquire Activision Blizzard",
+    "type": "story",
+    "url": "https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/"
+  },
+  {
+    "by": "nrvn",
+    "descendants": 339,
+    "id": 29985871,
+    "score": 1378,
+    "time": 1642540237,
+    "title": "Do svidaniya, Igor, and thank you for Nginx",
+    "type": "story",
+    "url": "https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/"
+  },
+  {
+    "by": "andrewdutton",
+    "descendants": 690,
+    "id": 29993961,
+    "score": 673,
+    "time": 1642602533,
+    "title": "1Password Has Raised $620M",
+    "type": "story",
+    "url": "https://blog.1password.com/future-of-1password/"
+  },
+  {
+    "by": "kbuck",
+    "descendants": 284,
+    "id": 30013919,
+    "score": 621,
+    "time": 1642708866,
+    "title": "Roblox October Outage Postmortem",
+    "type": "story",
+    "url": "https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/"
+  },
+  {
+    "by": "TriNetra",
+    "descendants": 480,
+    "id": 29994776,
+    "score": 621,
+    "time": 1642605862,
+    "title": "I automated my job over a year ago and haven't told anyone",
+    "type": "story",
+    "url": "https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/"
+  },
+  {
+    "by": "VHRanger",
+    "descendants": 434,
+    "id": 29966533,
+    "score": 618,
+    "time": 1642427580,
+    "title": "An anatomy of Bitcoin price manipulation",
+    "type": "story",
+    "url": "https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/"
+  },
+  {
+    "by": "mikeyhew",
+    "descendants": 149,
+    "id": 30018197,
+    "score": 618,
+    "time": 1642729960,
+    "title": "Free Postgres databases for small projects",
+    "type": "story",
+    "url": "https://fly.io/blog/free-postgres/"
+  },
+  {
+    "by": "vishvananda",
+    "descendants": 456,
+    "id": 29983959,
+    "score": 591,
+    "time": 1642532170,
+    "title": "Locked out of 'God Mode', runners are hacking their treadmills",
+    "type": "story",
+    "url": "https://www.wired.com/story/nordictrack-ifit-treadmill-privilege-mode/"
+  },
+  {
+    "by": "codyogden",
+    "descendants": 980,
+    "id": 29996432,
+    "score": 585,
+    "time": 1642612082,
+    "title": "Google requiring all ‘G Suite legacy free edition’ users to start paying",
+    "type": "story",
+    "url": "https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/"
+  }
 ]
