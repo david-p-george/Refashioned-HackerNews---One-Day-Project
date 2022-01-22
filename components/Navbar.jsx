@@ -6,7 +6,7 @@ import { AiFillGithub } from "react-icons/ai";
 const Navbar = () => {
   const router = useRouter();
 
-  // The below function determines what is the current path ('/', '/new', '/best'), and returns the title. For more, check how the title changes in the app.
+  // The below function determines the title after reading the current path ('/', '/new', '/best'), and returns it. For more, check how the title changes in the app.
   const determineTitle = () => {
     const currentPath = router.asPath;
 
